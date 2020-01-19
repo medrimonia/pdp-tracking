@@ -1,0 +1,45 @@
+[submodule "src/console_bridge"]
+	path = src/console_bridge
+	url = https://github.com/rhobandeps/console_bridge
+[submodule "src/urdfdom_headers"]
+	path = src/urdfdom_headers
+	url = https://github.com/rhobandeps/urdfdom_headers
+[submodule "src/urdfdom"]
+	path = src/urdfdom
+	url = https://github.com/rhobandeps/urdfdom
+[submodule "src/rbdl"]
+	path = src/rbdl
+	url = https://github.com/rhobandeps/rbdl
+[submodule "src/eigen"]
+	path = src/eigen
+	url = https://github.com/rhobandeps/eigen
+[submodule "src/utils"]
+	path = src/utils
+	url = https://github.com/rhoban/utils
+[submodule "src/random"]
+	path = src/random
+	url = https://github.com/rhoban/random
+[submodule "src/geometry"]
+	path = src/geometry
+	url = https://github.com/rhoban/geometry
+[submodule "src/hl_communication"]
+	path = src/hl_communication
+	url = https://github.com/rhoban/hl_communication
+[submodule "src/hl_monitoring"]
+	path = src/hl_monitoring
+	url = https://github.com/rhoban/hl_monitoring
+[submodule "src/hl_labelling"]
+	path = src/hl_labelling
+	url = https://github.com/rhoban/hl_labelling
+[submodule "src/robot_model"]
+	path = src/robot_model
+	url = https://github.com/rhoban/robot_model
+[submodule "src/catkin"]
+	path = src/catkin
+	url = https://github.com/ros/catkin.git
+[submodule "src/jsoncpp"]
+	path = src/jsoncpp
+	url = https://github.com/rhobandeps/jsoncpp
+[submodule "src/libzmq"]
+	path = src/libzmq
+	url = https://github.com/rhobandeps/libzmq
