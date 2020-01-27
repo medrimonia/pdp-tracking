@@ -11,6 +11,11 @@ Il peut être installé avec des droits utilisateurs au cremi:
 Vous pourrez trouver un récapitulatif des commandes de `catkin-tools` sur le
 [site officiel](https://catkin-tools.readthedocs.io/en/latest/cheat_sheet.html).
 
+Si nécessaire, modifiez votre `.bashrc` pour ajouter le dossier contenant catkin
+à votre `PATH`, par exemple:
+
+    export PATH=$PATH:~/.local/bin
+
 ## Initialisation du dépôt
 
 Après avoir cloné le dépôt, initialiser les sous-module:
